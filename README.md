@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yonghwan-Song&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonghwan-Song"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yonghwan-Song&theme=monokai&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonghwan-Song&theme=monokai"/>
