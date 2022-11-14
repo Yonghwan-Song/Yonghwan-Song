@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my github page
+## Welcome to my github page
 
 <br/>
 
-## About me
+### About me
 
 😄 Hello, I'm Yonghwan Song.
 
@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yonghwan-blue?style=flat&logo=Linkedin&logoColor=white)](yonghwan-song-1728691b9)
 
-#
-
 <br/>
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <br/>
 
@@ -63,9 +61,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-#
-
-## 📊 Stats
+### 📊 Stats
 
 <br/>
 
