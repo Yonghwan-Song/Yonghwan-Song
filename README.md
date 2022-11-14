@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ⚡ I'm trying to learn the enjoyment of solving problems while developing some features in my project.
 
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yonghwan-blue?style=flat&logo=Linkedin&logoColor=white)](yonghwan-song-1728691b9)
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yonghwan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yonghwan-song-1728691b9)
 
 <br/>
 
