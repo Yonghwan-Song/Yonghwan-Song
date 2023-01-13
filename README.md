@@ -65,6 +65,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Yonghwan-Song&theme=slateorange&show_icons=true)
-
 ![Github Stats2](https://github-readme-streak-stats.herokuapp.com/?user=Yonghwan-Song&theme=slateorange)
