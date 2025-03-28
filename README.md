@@ -58,11 +58,3 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<br/>
-
-### 📊 Stats
-
-<br/>
-
-![Github Stats2](https://github-readme-streak-stats.herokuapp.com/?user=Yonghwan-Song&theme=slateorange)
